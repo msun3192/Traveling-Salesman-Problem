@@ -1,4 +1,4 @@
-When run, use commands -shc -usa
+When run, use commands -shc -usa on the TSP file
 (gives stochastic tour of the usa)
 prints out tour
 then using that tour, give it as params to Plot
